@@ -1,8 +1,8 @@
 <h1 align="center">
-  Habour Roleplay Website
+  MHDev Roleplay Website
 </h1>
 <p align="center">
-  This is the website made for a GTAV roleplay server Harbour Roleplay
+  This is the website made for a GTAV roleplay server MHDev Roleplay
 </p>
 
-![demo](og.png)
+![demo](https://github.com/OrBital1650/MHDevRolePlay/blob/main/images/og.png)
