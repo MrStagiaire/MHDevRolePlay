@@ -5,4 +5,4 @@
   This is the website made for a GTAV roleplay server Harbour Roleplay
 </p>
 
-![demo](https://secret-sahil.github.io/Habour-Roleplay-Website/images/og.png)
+![demo](og.png)
